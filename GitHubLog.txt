@@ -1,0 +1,24 @@
+this is equivalent to running something like this:
+$ mv README.md README
+$ git rm README.md
+$ git add README
+this is equivalent to running something like this:
+$ mv README.md README
+$ git rm README.md
+$ git add README
+this is equivalent to running something like this:
+$ mv README.md README
+$ git rm README.md
+$ git add README
+this is equivalent to running something like this:
+$ mv README.md README
+$ git rm README.md
+$ git add README
+this is equivalent to running something like this:
+$ mv README.md README
+$ git rm README.md
+$ git add README
+this is equivalent to running something like this:
+$ mv README.md README
+$ git rm README.md
+$ git add README
