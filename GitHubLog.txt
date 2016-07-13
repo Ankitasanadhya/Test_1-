@@ -1,4 +1,4 @@
-this is equivalent to running something like this:
+GitHubLog.txtGitHubLog.txtGitHubLog.txtGitHubLog.txtGitHubLog.txtGitHubLog.txtGitHubLog.txtGitHubLog.txtthis is equivalent to running something like this:
 $ mv README.md README
 $ git rm README.md
 $ git add README
